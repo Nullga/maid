@@ -150,7 +150,7 @@
             }
         ]
     },
-    "HurtByTimestamp": 44926,
+    "HurtByTimestamp": 54933,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
@@ -242,7 +242,7 @@
         },
         "Eyes": {
             "Pattern": 0b,
-            "Glint": 0b,
+            "Glint": 1b,
             "Type": 1b,
             "PositionY": 0,
             "SkinColor": 0,
@@ -419,7 +419,7 @@
         "RotationZ": 0.0f,
         "Disabled": 0b
     },
-    "TotalTicksAlive": 70584L,
+    "TotalTicksAlive": 79890L,
     "Rotation": [
         71.84956f,
         0.0f
