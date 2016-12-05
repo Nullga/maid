@@ -1,4 +1,3 @@
-# CustomNPCs Maid MC1.11
 **assets** - Skins  
-**clones** - Npc settings  
-**presets.dat** - MorePlayerModels data
+**clones** - NPC settings  
+**presets.dat** - MorePlayerModels model data
